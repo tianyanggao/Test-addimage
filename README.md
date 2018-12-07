@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# the test for Algo
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
